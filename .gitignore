@@ -1,0 +1,7 @@
+/build/
+/private/
+*.p12
+*.jks
+*.keystore
+*password*
+.DS_Store
