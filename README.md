@@ -12,7 +12,7 @@ Third-party watch faces generally cannot use Samsung Timer's live numeric countd
 
 ## Example: Facer Pip-Boy SE
 
-![Galaxy Watch 8 Classic showing the Samsung Timer countdown at 1:59:36 in the top-left complication of a Facer Pip-Boy SE watch face](docs/images/facer-pipboy-se.jpg)
+<img src="docs/images/facer-pipboy-se.jpg" width="600" alt="Galaxy Watch 8 Classic showing the Samsung Timer countdown at 1:59:36 in the top-left complication of a Facer Pip-Boy SE watch face">
 
 *Tested example: Samsung Timer countdown (1:59:36, top left) displayed on the Facer Pip-Boy SE watch face through Watch Timer Bridge.*
 
